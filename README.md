@@ -47,7 +47,14 @@ python main.py
 
 ## 项目结构
 
-BC DBViewer/ ├── main.py # 程序入口文件 ├── main_window.py # 主窗口类 ├── db_manager.py # 数据库管理类 ├── style.qss # 默认样式表 ├── black.qss # 黑色主题样式表 ├── icon.ico # 应用图标 └── README.md # 项目说明文件
+BC DBViewer/ 
+├── main.py # 程序入口文件 
+├── main_window.py # 主窗口类 
+├── db_manager.py # 数据库管理类
+├── style.qss # 默认样式表 
+├── black.qss # 黑色主题样式表 
+├── icon.ico # 应用图标 
+└── README.md # 项目说明文件
 
 ## 使用指南
 
@@ -60,5 +67,6 @@ BC DBViewer/ ├── main.py # 程序入口文件 ├── main_window.py # �
 7. **删除行**：选择要删除的行，从编辑菜单中选择"删除行"。
 
 ## 许可证
+
 
 本项目采用 GPL 3.0 许可证。
